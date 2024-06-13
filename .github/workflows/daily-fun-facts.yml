@@ -1,0 +1,31 @@
+name: Daily Fun Fact
+
+on:
+  schedule:
+    - cron: '*/5 * * * *' # Chạy mỗi 5 phút
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Get random fun fact
+        id: get_fact
+        run: |
+          FACT=$(curl -s https://catfact.ninja/fact | jq -r '.fact')
+          echo "fact=$FACT" >> $GITHUB_OUTPUT
+
+      - name: Update README.md
+        run: |
+          echo "# Daily Fun Fact" > README.md
+          echo "[![Daily Fun Fact](https://github.com/huy2x/daily-fun-facts/actions/workflows/daily-fun-facts.yml/badge.svg)](https://github.com/huy2x/daily-fun-facts/actions/workflows/daily-fun-facts.yml)<br/>" >> README.md
+          echo "${{ steps.get_fact.outputs.fact }}" >> README.md
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4.16.0
+        with:
+          commit_message: Update daily fun fact
