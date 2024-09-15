@@ -1,3 +1,3 @@
 # Daily Fun Fact
 [![Daily Fun Fact](https://github.com/huy2x/daily-fun-facts/actions/workflows/daily-fun-facts.yml/badge.svg)](https://github.com/huy2x/daily-fun-facts/actions/workflows/daily-fun-facts.yml)<br/>
-If a cat is frightened, the hair stands up fairly evenly all over the body; when the cat is threatened or is ready to attack, the hair stands up only in a narrow band along the spine and tail.
+Cats only use their meows to talk to humans, not each other. The only time they meow to communicate with other felines is when they are kittens to signal to their mother.
