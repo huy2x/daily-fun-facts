@@ -1,3 +1,3 @@
 # Daily Fun Fact
 [![Daily Fun Fact](https://github.com/huy2x/daily-fun-facts/actions/workflows/daily-fun-facts.yml/badge.svg)](https://github.com/huy2x/daily-fun-facts/actions/workflows/daily-fun-facts.yml)<br/>
-In multi-cat households, cats of the opposite sex usually get along better.
+Contrary to popular belief, the cat is a social animal. A pet cat will respond and answer to speech , and seems to enjoy human companionship.
