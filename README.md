@@ -1,3 +1,3 @@
 # Daily Fun Fact
 [![Daily Fun Fact](https://github.com/huy2x/daily-fun-facts/actions/workflows/daily-fun-facts.yml/badge.svg)](https://github.com/huy2x/daily-fun-facts/actions/workflows/daily-fun-facts.yml)<br/>
-The Cat Fanciers Association (CFA) recognizes 44 breeds of cats.
+Among many other diseases, cats can suffer from anorexia, senility, feline AIDS and acne.
