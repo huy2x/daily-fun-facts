@@ -1,3 +1,3 @@
 # Daily Fun Fact
 [![Daily Fun Fact](https://github.com/huy2x/daily-fun-facts/actions/workflows/daily-fun-facts.yml/badge.svg)](https://github.com/huy2x/daily-fun-facts/actions/workflows/daily-fun-facts.yml)<br/>
-70% of your cat's life is spent asleep.
+A tomcat (male cat) can begin mating when he is between 7 and 10 months old.
