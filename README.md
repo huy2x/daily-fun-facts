@@ -1,3 +1,3 @@
 # Daily Fun Fact
 [![Daily Fun Fact](https://github.com/huy2x/daily-fun-facts/actions/workflows/daily-fun-facts.yml/badge.svg)](https://github.com/huy2x/daily-fun-facts/actions/workflows/daily-fun-facts.yml)<br/>
-The most popular pedigreed cat is the Persian cat, followed by the Main Coon cat and the Siamese cat.
+People who are allergic to cats are actually allergic to cat saliva or to cat dander. If the resident cat is bathed regularly the allergic people tolerate it better.
