@@ -1,3 +1,3 @@
 # Daily Fun Fact
 [![Daily Fun Fact](https://github.com/huy2x/daily-fun-facts/actions/workflows/daily-fun-facts.yml/badge.svg)](https://github.com/huy2x/daily-fun-facts/actions/workflows/daily-fun-facts.yml)<br/>
-Cats purr at the same frequency as an idling diesel engine, about 26 cycles per second.
+A female cat will be pregnant for approximately 9 weeks or between 62 and 65 days from conception to delivery.
