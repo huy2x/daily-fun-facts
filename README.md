@@ -1,3 +1,3 @@
 # Daily Fun Fact
 [![Daily Fun Fact](https://github.com/huy2x/daily-fun-facts/actions/workflows/daily-fun-facts.yml/badge.svg)](https://github.com/huy2x/daily-fun-facts/actions/workflows/daily-fun-facts.yml)<br/>
-Cats have about 130,000 hairs per square inch (20,155 hairs per square centimeter).
+On average, cats spend 2/3 of every day sleeping. That means a nine-year-old cat has been awake for only three years of its life.
