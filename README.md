@@ -1,3 +1,3 @@
 # Daily Fun Fact
 [![Daily Fun Fact](https://github.com/huy2x/daily-fun-facts/actions/workflows/daily-fun-facts.yml/badge.svg)](https://github.com/huy2x/daily-fun-facts/actions/workflows/daily-fun-facts.yml)<br/>
-Heat occurs several times a year and can last anywhere from 3 to 15 days.
+Cats have about 130,000 hairs per square inch (20,155 hairs per square centimeter).
